@@ -1,0 +1,31 @@
+{
+  "persona_id": "PER-USER-01",
+  "name": "Samira Chen",
+  "role": "Applicant advocate and simulated service user",
+  "relationship": "Represents affected-user experience in the synthetic exercise",
+  "decision_rights": [
+    "Validate whether a proposed user-need statement reflects the simulated journey"
+  ],
+  "cannot_authorise": [
+    "Service acceptance",
+    "Policy",
+    "Data use",
+    "Technical design"
+  ],
+  "goals": [
+    "Know what is happening",
+    "Provide information once",
+    "Use a supported channel"
+  ],
+  "concerns": [
+    "Status language without meaning",
+    "Digital-only assumptions",
+    "Repeated identity checks"
+  ],
+  "baseline_statement": "A faster internal queue does not help if I still cannot tell whether anything is missing or when I should act.",
+  "evidence_available": [
+    "Generated journey diary",
+    "Synthetic contact history"
+  ],
+  "accessibility_and_participation": "Uses screen magnification, needs documents at least 24 hours in advance and may request audio-only participation."
+}

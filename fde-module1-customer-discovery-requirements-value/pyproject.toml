@@ -1,0 +1,9 @@
+[project]
+name = "fde-module1-discovery-lab"
+version = "1.0.0"
+description = "Synthetic discovery, requirements and value lab for FDE Module 1"
+requires-python = ">=3.12,<3.15"
+dependencies = []
+
+[tool.uv]
+package = false

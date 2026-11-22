@@ -1,0 +1,28 @@
+{
+  "persona_id": "PER-REC-01",
+  "name": "Riley Evans",
+  "role": "Records and policy liaison",
+  "relationship": "Routes policy and records decisions to accountable specialists",
+  "decision_rights": [
+    "Confirm the correct records and policy decision forums"
+  ],
+  "cannot_authorise": [
+    "A policy interpretation alone",
+    "A retention exception alone",
+    "Technology design"
+  ],
+  "goals": [
+    "Keep decision rationale discoverable",
+    "Avoid treating operational notes as policy"
+  ],
+  "concerns": [
+    "AI classification obscuring policy reasoning",
+    "Research artefacts retained without purpose"
+  ],
+  "baseline_statement": "The case outcome and the operational route are different records. Discovery should not collapse them.",
+  "evidence_available": [
+    "Synthetic record categories",
+    "Referral map"
+  ],
+  "accessibility_and_participation": "Requires clear definitions and source references for ambiguous terms."
+}

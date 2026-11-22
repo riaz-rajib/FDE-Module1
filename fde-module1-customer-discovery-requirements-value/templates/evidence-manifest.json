@@ -1,0 +1,23 @@
+{
+  "engagement_id": "REPLACE_ME",
+  "manifest_version": "1.0",
+  "claims": [
+    {
+      "claim_id": "CLM-001",
+      "statement": "REPLACE_ME",
+      "execution_mode": "Synthetic",
+      "validation_method": "Document-reviewed",
+      "observer_or_verifier": "REPLACE_ME",
+      "artefacts": [
+        "REPLACE_ME"
+      ],
+      "captured_at": "REPLACE_ME",
+      "environment": "Local synthetic lab",
+      "redaction": "Generated data only",
+      "limitations": [
+        "REPLACE_ME"
+      ],
+      "retention": "REPLACE_ME"
+    }
+  ]
+}

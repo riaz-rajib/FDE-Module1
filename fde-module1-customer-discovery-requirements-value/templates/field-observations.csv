@@ -1,0 +1,2 @@
+observation_id,category,observation,evidence_link,affected_users,confidence,counter_evidence,generalisation_limit,product_boundary,owner,next_validation,status
+REPLACE_ME,unvalidated observation,REPLACE_ME,REPLACE_ME,REPLACE_ME,REPLACE_ME,REPLACE_ME,REPLACE_ME,REPLACE_ME,REPLACE_ME,REPLACE_ME,open

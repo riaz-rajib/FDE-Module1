@@ -1,0 +1,44 @@
+{
+  "scenario_id": "FDE1-S01",
+  "organisation": "Meridian Public Services",
+  "sector": "synthetic public services",
+  "fictional_domain": "meridian-public-services.invalid",
+  "engagement_title": "Casework triage and status discovery",
+  "customer_request": "Replace the casework triage spreadsheets with an AI queue so the backlog falls by 40 per cent this quarter.",
+  "stated_outcome": "Help eligible applicants receive a clear, timely case decision while preserving accountable public-service decisions, accessible channels and records controls.",
+  "known_facts": [
+    "All records, people, organisations and measurements in this repository are synthetic.",
+    "The sponsor may authorise discovery but cannot approve policy, privacy, records, accessibility or production AI decisions.",
+    "The service currently uses a web form, shared mailbox, spreadsheet queue and a separate records system.",
+    "The baseline pack reports 1,240 open cases and a median age of 18 business days, but the extraction method has not been independently validated.",
+    "Approximately 14 per cent of contacts in the synthetic sample are repeat status enquiries.",
+    "A non-digital assisted channel must remain available."
+  ],
+  "visible_tensions": [
+    "The sponsor frames AI as the solution before the user need and failure demand are understood.",
+    "Caseworkers report duplicate entry; security describes the same step as an important control.",
+    "The contact centre measures call duration while service operations values first-contact resolution.",
+    "Procurement wants an indicative cost range before the current unit cost is agreed.",
+    "Accessibility needs are described as edge cases in one meeting note."
+  ],
+  "authorised_scope": [
+    "Interview and observe fictional personas supplied in the repository.",
+    "Analyse generated workflow and measurement fixtures.",
+    "Create a synthetic discovery dossier, value hypothesis and traceable backlog.",
+    "Run local validation, evidence sealing and controlled changed-constraint exercises."
+  ],
+  "excluded_scope": [
+    "No contact with real service users or Meridian staff.",
+    "No external system, provider, customer data, account or production environment.",
+    "No determination of legal compliance, policy eligibility, records obligations or AI deployment approval.",
+    "No claim that a prototype, metric or synthetic interview proves production impact."
+  ],
+  "starting_assumptions": [
+    "The backlog count represents unique active cases.",
+    "Reducing triage time will reduce end-to-end case age.",
+    "Applicants primarily want a faster decision rather than clearer status information.",
+    "An AI classifier would be more valuable than workflow and data-quality changes."
+  ],
+  "data_status": "synthetic_only",
+  "learner_note": "Treat the request, figures and stakeholder statements as discovery inputs, not truth. An assessor may issue one controlled changed constraint during the exit exercise."
+}

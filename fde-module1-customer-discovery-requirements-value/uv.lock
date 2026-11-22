@@ -1,0 +1,8 @@
+version = 1
+revision = 3
+requires-python = ">=3.12, <3.15"
+
+[[package]]
+name = "fde-module1-discovery-lab"
+version = "1.0.0"
+source = { virtual = "." }

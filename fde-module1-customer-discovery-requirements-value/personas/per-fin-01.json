@@ -1,0 +1,30 @@
+{
+  "persona_id": "PER-FIN-01",
+  "name": "Morgan Silva",
+  "role": "Finance and procurement partner",
+  "relationship": "Owns cost-model review and procurement route",
+  "decision_rights": [
+    "Cost-model assumptions",
+    "Procurement route",
+    "Budget recommendation"
+  ],
+  "cannot_authorise": [
+    "User need",
+    "Technical acceptance",
+    "Operational risk acceptance"
+  ],
+  "goals": [
+    "Compare options on the same scope",
+    "Identify recurring and exit costs"
+  ],
+  "concerns": [
+    "Savings counted without implementation or support cost",
+    "A per-case denominator that changes between reports"
+  ],
+  "baseline_statement": "Give me a range with drivers and uncertainty. A precise number built on an unstable denominator is not useful.",
+  "evidence_available": [
+    "Synthetic labour bands",
+    "Indicative support and licence categories"
+  ],
+  "accessibility_and_participation": "Needs tables accompanied by a plain-language narrative and assumptions."
+}

@@ -1,0 +1,30 @@
+{
+  "persona_id": "PER-SVC-01",
+  "name": "Priya Nair",
+  "role": "Service owner",
+  "relationship": "Accountable for the end-to-end service and operational acceptance",
+  "decision_rights": [
+    "Service operating model",
+    "Operational acceptance",
+    "Backlog priority"
+  ],
+  "cannot_authorise": [
+    "Policy interpretation",
+    "Privacy exception",
+    "Security risk acceptance"
+  ],
+  "goals": [
+    "Reduce avoidable rework",
+    "Keep a visible manual fallback"
+  ],
+  "concerns": [
+    "Local optimisation of triage",
+    "Changes that shift work to the contact centre"
+  ],
+  "baseline_statement": "The queue is a symptom. Cases arrive incomplete, return from specialist review and are counted differently across teams.",
+  "evidence_available": [
+    "Synthetic process notes",
+    "Weekly queue reconciliation sample"
+  ],
+  "accessibility_and_participation": "Available for two 30-minute sessions and expects decisions to name an owner."
+}

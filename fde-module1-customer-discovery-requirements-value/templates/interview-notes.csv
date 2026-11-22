@@ -1,0 +1,2 @@
+session_id,persona_id,question,observed_or_stated,response_or_observation,evidence_strength,contradiction,follow_up,redaction
+REPLACE_ME,REPLACE_ME,REPLACE_ME,stated,REPLACE_ME,REPLACE_ME,REPLACE_ME,REPLACE_ME,synthetic only

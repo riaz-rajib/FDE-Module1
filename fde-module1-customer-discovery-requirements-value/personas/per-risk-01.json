@@ -1,0 +1,29 @@
+{
+  "persona_id": "PER-RISK-01",
+  "name": "Taylor Okafor",
+  "role": "Security and privacy adviser",
+  "relationship": "Specialist adviser for information handling and security risk",
+  "decision_rights": [
+    "Security control advice",
+    "Privacy referral and assessment requirements"
+  ],
+  "cannot_authorise": [
+    "Business priority",
+    "Policy eligibility",
+    "Service acceptance"
+  ],
+  "goals": [
+    "Minimise copied case data",
+    "Preserve access and audit boundaries"
+  ],
+  "concerns": [
+    "Research notes becoming an unmanaged data store",
+    "AI tools receiving case text"
+  ],
+  "baseline_statement": "The duplicate entry may be a poor implementation, but one checkpoint also prevents unauthorised assignment. Separate the two before proposing removal.",
+  "evidence_available": [
+    "Synthetic control description",
+    "Data-flow questions"
+  ],
+  "accessibility_and_participation": "Prefers written questions with purpose and decision deadline."
+}

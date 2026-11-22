@@ -1,0 +1,47 @@
+{
+  "version": "1.0.0",
+  "personas": [
+    {
+      "persona_id": "PER-EXEC-01",
+      "name": "Jordan Lee",
+      "role": "Executive sponsor",
+      "file": "per-exec-01.json"
+    },
+    {
+      "persona_id": "PER-SVC-01",
+      "name": "Priya Nair",
+      "role": "Service owner",
+      "file": "per-svc-01.json"
+    },
+    {
+      "persona_id": "PER-OPS-01",
+      "name": "Alex Morgan",
+      "role": "Senior caseworker",
+      "file": "per-ops-01.json"
+    },
+    {
+      "persona_id": "PER-USER-01",
+      "name": "Samira Chen",
+      "role": "Applicant advocate and simulated service user",
+      "file": "per-user-01.json"
+    },
+    {
+      "persona_id": "PER-RISK-01",
+      "name": "Taylor Okafor",
+      "role": "Security and privacy adviser",
+      "file": "per-risk-01.json"
+    },
+    {
+      "persona_id": "PER-FIN-01",
+      "name": "Morgan Silva",
+      "role": "Finance and procurement partner",
+      "file": "per-fin-01.json"
+    },
+    {
+      "persona_id": "PER-REC-01",
+      "name": "Riley Evans",
+      "role": "Records and policy liaison",
+      "file": "per-rec-01.json"
+    }
+  ]
+}

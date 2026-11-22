@@ -1,0 +1,8 @@
+{
+  "fixture_id": "BASE-001",
+  "period": "synthetic 12-week sample",
+  "open_case_count": 1240,
+  "reported_median_age_business_days": 18,
+  "repeat_status_contact_rate": 0.14,
+  "warning": "These values are intentionally unvalidated discovery inputs. Definitions and denominators must be tested before use."
+}

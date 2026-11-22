@@ -1,0 +1,22 @@
+{
+  "decision_id": "REPLACE_ME",
+  "proposed_use": "REPLACE_ME",
+  "necessary_or_alternative": "REPLACE_ME",
+  "affected_people": [
+    "REPLACE_ME"
+  ],
+  "intended_benefit": "REPLACE_ME",
+  "risks": [
+    "REPLACE_ME"
+  ],
+  "data_boundary": "Generated records only",
+  "human_decision_authority": "REPLACE_ME",
+  "contestability": "REPLACE_ME",
+  "authorisation_owner": "REPLACE_ME",
+  "suitability_decision": "unproved",
+  "evidence_mode": "Synthetic",
+  "limitations": [
+    "No evaluation or production authority"
+  ],
+  "review_trigger": "REPLACE_ME"
+}

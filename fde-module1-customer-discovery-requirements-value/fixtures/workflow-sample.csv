@@ -1,0 +1,4 @@
+event_id,case_ref,event_type,recorded_at,team
+EVT-001,CASE-001,received,2026-07-01T09:00:00Z,intake
+EVT-002,CASE-001,referred,2026-07-03T11:00:00Z,casework
+EVT-003,CASE-001,returned,2026-07-08T15:30:00Z,specialist

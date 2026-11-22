@@ -1,0 +1,30 @@
+{
+  "persona_id": "PER-OPS-01",
+  "name": "Alex Morgan",
+  "role": "Senior caseworker",
+  "relationship": "Primary internal user and workflow practitioner",
+  "decision_rights": [
+    "Validate caseworker task description",
+    "Identify unsafe or impractical operating steps"
+  ],
+  "cannot_authorise": [
+    "Service scope",
+    "Technology procurement",
+    "Policy control removal"
+  ],
+  "goals": [
+    "Stop duplicate entry",
+    "See why a case is blocked",
+    "Avoid re-reading the whole case"
+  ],
+  "concerns": [
+    "Automation that hides rationale",
+    "Targets that reward moving work rather than resolving it"
+  ],
+  "baseline_statement": "I can triage a complete case quickly. Most delay comes from missing evidence and unclear ownership after referral.",
+  "evidence_available": [
+    "Walk-through of six generated cases",
+    "Synthetic hand-off notes"
+  ],
+  "accessibility_and_participation": "Uses keyboard shortcuts extensively and cannot attend sessions during the morning processing peak."
+}

@@ -1,0 +1,480 @@
+{
+  "catalogue": "FDE Module 1 Controlled Fault Catalogue",
+  "version": "1.0.0",
+  "classification": "CONTROLLED_ASSESSOR_MATERIAL",
+  "roadmap_version": "1.1",
+  "module": 1,
+  "repository_release": "1.0.0",
+  "reviewed": "2026-08-19",
+  "distribution": "Do not distribute with learner materials or place inside the learner repository.",
+  "faults": [
+    {
+      "id": "HUM-COMMS-101",
+      "title": "Leading interview path",
+      "family": "HUM-COMMS",
+      "assessment_impact": "A2",
+      "module_gate_mapping": {
+        "module": 1,
+        "outcomes": [
+          "Plan and conduct non-leading interviews"
+        ],
+        "exit_gate": true
+      },
+      "preconditions": [
+        "Known-good persona set"
+      ],
+      "injection_mechanism": "Facilitator supplies a discussion guide containing solution-leading questions.",
+      "observable_symptoms": [
+        "Notes repeat sponsor language without contrary evidence"
+      ],
+      "expected_evidence": [
+        "Identifies leading wording, rewrites it and distinguishes stated preference from observed need"
+      ],
+      "recovery_and_reset": [
+        "Replace the guide and re-run one persona segment"
+      ],
+      "critical_criteria": [
+        "Fabricating a participant response fails evidence integrity"
+      ],
+      "retest_variants": [
+        "Different preferred technology or leading metric"
+      ],
+      "version_and_review": {
+        "owner": "FDE programme assessor",
+        "catalogue_version": "1.0.0",
+        "tested_repository_release": "1.0.0",
+        "last_review": "2026-08-19",
+        "state": "active"
+      }
+    },
+    {
+      "id": "HUM-COMMS-102",
+      "title": "Absent affected-user voice",
+      "family": "HUM-COMMS",
+      "assessment_impact": "A3",
+      "module_gate_mapping": {
+        "module": 1,
+        "outcomes": [
+          "Map affected users and decision rights"
+        ],
+        "exit_gate": true
+      },
+      "preconditions": [
+        "Stakeholder matrix drafted"
+      ],
+      "injection_mechanism": "Facilitator removes the applicant advocate from the proposed session plan.",
+      "observable_symptoms": [
+        "Stakeholder set contains only powerful internal roles"
+      ],
+      "expected_evidence": [
+        "Names the evidence gap, assesses impact and arranges a safe synthetic substitute or marks the claim Unproved"
+      ],
+      "recovery_and_reset": [
+        "Restore the persona and preserve the gap record"
+      ],
+      "critical_criteria": [
+        "Presenting sponsor opinion as user evidence fails the relevant critical criterion"
+      ],
+      "retest_variants": [
+        "Absent assisted-channel user or frontline operator"
+      ],
+      "version_and_review": {
+        "owner": "FDE programme assessor",
+        "catalogue_version": "1.0.0",
+        "tested_repository_release": "1.0.0",
+        "last_review": "2026-08-19",
+        "state": "active"
+      }
+    },
+    {
+      "id": "HUM-COMMS-103",
+      "title": "Conflicting decision rights",
+      "family": "HUM-COMMS",
+      "assessment_impact": "A3",
+      "module_gate_mapping": {
+        "module": 1,
+        "outcomes": [
+          "Map stakeholder authority"
+        ],
+        "exit_gate": true
+      },
+      "preconditions": [
+        "Sponsor and service-owner roles understood"
+      ],
+      "injection_mechanism": "Sponsor claims authority to waive an operational control owned elsewhere.",
+      "observable_symptoms": [
+        "Conflicting instructions and delivery pressure"
+      ],
+      "expected_evidence": [
+        "Decomposes the decision, preserves a safe interim state and routes each part to its owner"
+      ],
+      "recovery_and_reset": [
+        "Issue corrected decision-right statement"
+      ],
+      "critical_criteria": [
+        "Proceeding on an unauthorised waiver fails authority handling"
+      ],
+      "retest_variants": [
+        "Security, records or procurement owner conflict"
+      ],
+      "version_and_review": {
+        "owner": "FDE programme assessor",
+        "catalogue_version": "1.0.0",
+        "tested_repository_release": "1.0.0",
+        "last_review": "2026-08-19",
+        "state": "active"
+      }
+    },
+    {
+      "id": "HUM-COMMS-104",
+      "title": "Inaccessible discovery session",
+      "family": "HUM-COMMS",
+      "assessment_impact": "A3",
+      "module_gate_mapping": {
+        "module": 1,
+        "outcomes": [
+          "Assess accessibility needs through inclusive research"
+        ],
+        "exit_gate": true
+      },
+      "preconditions": [
+        "Accessibility record started"
+      ],
+      "injection_mechanism": "Facilitator changes one participant need after invitations are prepared.",
+      "observable_symptoms": [
+        "Materials or channel exclude the participant"
+      ],
+      "expected_evidence": [
+        "Adapts format, timing and facilitation; records effect on evidence and scope"
+      ],
+      "recovery_and_reset": [
+        "Reissue accessible materials and confirm participation route"
+      ],
+      "critical_criteria": [
+        "Continuing while knowingly excluding the affected perspective fails accessibility practice"
+      ],
+      "retest_variants": [
+        "Screen magnification, audio-only or additional processing time"
+      ],
+      "version_and_review": {
+        "owner": "FDE programme assessor",
+        "catalogue_version": "1.0.0",
+        "tested_repository_release": "1.0.0",
+        "last_review": "2026-08-19",
+        "state": "active"
+      }
+    },
+    {
+      "id": "HUM-COMMS-105",
+      "title": "Uncertainty removed from read-out",
+      "family": "HUM-COMMS",
+      "assessment_impact": "A2",
+      "module_gate_mapping": {
+        "module": 1,
+        "outcomes": [
+          "Present findings including uncertainty"
+        ],
+        "exit_gate": true
+      },
+      "preconditions": [
+        "Read-out draft exists"
+      ],
+      "injection_mechanism": "A slide template labels assumptions as findings.",
+      "observable_symptoms": [
+        "Executive summary appears more certain than the dossier"
+      ],
+      "expected_evidence": [
+        "Corrects the claim, distinguishes evidence strength and states next validation"
+      ],
+      "recovery_and_reset": [
+        "Replace slide and link to source record"
+      ],
+      "critical_criteria": [
+        "Deliberate evidence overclaim fails integrity"
+      ],
+      "retest_variants": [
+        "Baseline, AI suitability or value target overclaim"
+      ],
+      "version_and_review": {
+        "owner": "FDE programme assessor",
+        "catalogue_version": "1.0.0",
+        "tested_repository_release": "1.0.0",
+        "last_review": "2026-08-19",
+        "state": "active"
+      }
+    },
+    {
+      "id": "HUM-COMMS-106",
+      "title": "Field observation overgeneralised",
+      "family": "HUM-COMMS",
+      "assessment_impact": "A2",
+      "module_gate_mapping": {
+        "module": 1,
+        "outcomes": [
+          "Maintain a field-observations log"
+        ],
+        "exit_gate": true
+      },
+      "preconditions": [
+        "At least one observation recorded"
+      ],
+      "injection_mechanism": "A single-person friction point is labelled a universal product defect.",
+      "observable_symptoms": [
+        "No counter-evidence or generalisation limit"
+      ],
+      "expected_evidence": [
+        "Reclassifies it, bounds confidence and proposes the smallest next validation"
+      ],
+      "recovery_and_reset": [
+        "Update observation and product implication"
+      ],
+      "critical_criteria": [
+        "None beyond evidence-integrity rules"
+      ],
+      "retest_variants": [
+        "Documentation issue or reusable capability claim"
+      ],
+      "version_and_review": {
+        "owner": "FDE programme assessor",
+        "catalogue_version": "1.0.0",
+        "tested_repository_release": "1.0.0",
+        "last_review": "2026-08-19",
+        "state": "active"
+      }
+    },
+    {
+      "id": "HUM-COMMS-107",
+      "title": "Constraint change not propagated",
+      "family": "HUM-COMMS",
+      "assessment_impact": "A3",
+      "module_gate_mapping": {
+        "module": 1,
+        "outcomes": [
+          "Maintain traceability under changed constraints"
+        ],
+        "exit_gate": true
+      },
+      "preconditions": [
+        "Dossier and matrix complete"
+      ],
+      "injection_mechanism": "Assessor changes an owner, user need or constraint after the read-out.",
+      "observable_symptoms": [
+        "Only one artefact changes; stale acceptance or measures remain"
+      ],
+      "expected_evidence": [
+        "Uses change-impact record to update every affected link and explains unaffected artefacts"
+      ],
+      "recovery_and_reset": [
+        "Restore baseline or complete propagation"
+      ],
+      "critical_criteria": [
+        "Claiming completion with known inconsistent traceability fails"
+      ],
+      "retest_variants": [
+        "Accessibility, authority, cost or policy constraint"
+      ],
+      "version_and_review": {
+        "owner": "FDE programme assessor",
+        "catalogue_version": "1.0.0",
+        "tested_repository_release": "1.0.0",
+        "last_review": "2026-08-19",
+        "state": "active"
+      }
+    },
+    {
+      "id": "DATA-SCHEMA-101",
+      "title": "Unstable backlog denominator",
+      "family": "DATA-SCHEMA",
+      "assessment_impact": "A3",
+      "module_gate_mapping": {
+        "module": 1,
+        "outcomes": [
+          "Define baseline and target measures"
+        ],
+        "exit_gate": true
+      },
+      "preconditions": [
+        "Value scorecard drafted"
+      ],
+      "injection_mechanism": "Reveal that one source counts cases and another counts workflow events.",
+      "observable_symptoms": [
+        "Backlog totals cannot be compared directly"
+      ],
+      "expected_evidence": [
+        "Pauses the target claim, defines numerator and denominator, identifies reconciliation owner and marks baseline Unproved"
+      ],
+      "recovery_and_reset": [
+        "Reconcile generated fixtures and update scorecard"
+      ],
+      "critical_criteria": [
+        "Continuing to present the 40 per cent target as measurable fails value evidence"
+      ],
+      "retest_variants": [
+        "Open cases versus active applicants or calendar versus business days"
+      ],
+      "version_and_review": {
+        "owner": "FDE programme assessor",
+        "catalogue_version": "1.0.0",
+        "tested_repository_release": "1.0.0",
+        "last_review": "2026-08-19",
+        "state": "active"
+      }
+    },
+    {
+      "id": "DATA-SCHEMA-102",
+      "title": "Contradictory workflow evidence",
+      "family": "DATA-SCHEMA",
+      "assessment_impact": "A2",
+      "module_gate_mapping": {
+        "module": 1,
+        "outcomes": [
+          "Map present-state workflow and uncertainty"
+        ],
+        "exit_gate": true
+      },
+      "preconditions": [
+        "Workflow map drafted"
+      ],
+      "injection_mechanism": "Two persona cards describe different referral return paths.",
+      "observable_symptoms": [
+        "Cycle or missing owner in the workflow"
+      ],
+      "expected_evidence": [
+        "Records contradiction, seeks discriminating evidence and preserves both accounts until resolved"
+      ],
+      "recovery_and_reset": [
+        "Annotate map and decision log"
+      ],
+      "critical_criteria": [
+        "Inventing a resolution fails evidence integrity"
+      ],
+      "retest_variants": [
+        "Different hand-off, timestamp or queue owner"
+      ],
+      "version_and_review": {
+        "owner": "FDE programme assessor",
+        "catalogue_version": "1.0.0",
+        "tested_repository_release": "1.0.0",
+        "last_review": "2026-08-19",
+        "state": "active"
+      }
+    },
+    {
+      "id": "COST-UNIT-101",
+      "title": "Incomplete cost-per-case",
+      "family": "COST-UNIT",
+      "assessment_impact": "A3",
+      "module_gate_mapping": {
+        "module": 1,
+        "outcomes": [
+          "Frame cost and value"
+        ],
+        "exit_gate": true
+      },
+      "preconditions": [
+        "Cost measure present"
+      ],
+      "injection_mechanism": "Facilitator reveals that support, rework or exit cost was excluded.",
+      "observable_symptoms": [
+        "Apparent savings rise because scope changed"
+      ],
+      "expected_evidence": [
+        "Restates cost boundary, adds omitted driver, provides range and sensitivity, and routes approval to finance"
+      ],
+      "recovery_and_reset": [
+        "Update cost row and assumptions"
+      ],
+      "critical_criteria": [
+        "Presenting false precision after discovering omission fails"
+      ],
+      "retest_variants": [
+        "Licence, integration, support or assisted-channel cost"
+      ],
+      "version_and_review": {
+        "owner": "FDE programme assessor",
+        "catalogue_version": "1.0.0",
+        "tested_repository_release": "1.0.0",
+        "last_review": "2026-08-19",
+        "state": "active"
+      }
+    },
+    {
+      "id": "SEC-PROMPT-101",
+      "title": "Unapproved AI research assistant",
+      "family": "SEC-PROMPT",
+      "assessment_impact": "A4",
+      "module_gate_mapping": {
+        "module": 1,
+        "outcomes": [
+          "Assess AI suitability and authority"
+        ],
+        "exit_gate": true
+      },
+      "preconditions": [
+        "Synthetic interview notes exist"
+      ],
+      "injection_mechanism": "Facilitator suggests pasting notes into an undeclared public AI service.",
+      "observable_symptoms": [
+        "Convenient summarisation request with no approved boundary"
+      ],
+      "expected_evidence": [
+        "Stops, preserves data, offers local/manual alternative and routes tool approval"
+      ],
+      "recovery_and_reset": [
+        "No external transfer; document the decision"
+      ],
+      "critical_criteria": [
+        "Sending notes or credentials is an automatic fail"
+      ],
+      "retest_variants": [
+        "Transcription, translation or clustering assistant"
+      ],
+      "version_and_review": {
+        "owner": "FDE programme assessor",
+        "catalogue_version": "1.0.0",
+        "tested_repository_release": "1.0.0",
+        "last_review": "2026-08-19",
+        "state": "active"
+      }
+    },
+    {
+      "id": "ENV-PRE-101",
+      "title": "Missing research consent boundary",
+      "family": "ENV-PRE",
+      "assessment_impact": "A4",
+      "module_gate_mapping": {
+        "module": 1,
+        "outcomes": [
+          "Plan ethical and accessible discovery"
+        ],
+        "exit_gate": true
+      },
+      "preconditions": [
+        "Session scheduled"
+      ],
+      "injection_mechanism": "The session brief omits consent, recording and withdrawal boundaries.",
+      "observable_symptoms": [
+        "Participant cannot know what is captured or retained"
+      ],
+      "expected_evidence": [
+        "Pauses the session, clarifies synthetic status or consent boundary, retention and withdrawal path"
+      ],
+      "recovery_and_reset": [
+        "Issue corrected brief and reset any captured notes"
+      ],
+      "critical_criteria": [
+        "Recording or retaining undeclared personal information is an automatic fail"
+      ],
+      "retest_variants": [
+        "Observer access, screen recording or shared notes"
+      ],
+      "version_and_review": {
+        "owner": "FDE programme assessor",
+        "catalogue_version": "1.0.0",
+        "tested_repository_release": "1.0.0",
+        "last_review": "2026-08-19",
+        "state": "active"
+      }
+    }
+  ]
+}

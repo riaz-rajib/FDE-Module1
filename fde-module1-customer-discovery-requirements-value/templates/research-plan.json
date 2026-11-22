@@ -1,0 +1,33 @@
+{
+  "plan_id": "REPLACE_ME",
+  "purpose": "REPLACE_ME",
+  "research_objectives": [
+    "REPLACE_ME"
+  ],
+  "research_questions": [
+    "REPLACE_ME"
+  ],
+  "assumptions": [
+    "REPLACE_ME"
+  ],
+  "participant_groups": [
+    "REPLACE_ME"
+  ],
+  "methods": [
+    "Semi-structured interview",
+    "Workflow observation walk-through"
+  ],
+  "inclusion_adjustments": [
+    "REPLACE_ME"
+  ],
+  "consent_and_recording_boundary": "Fictional personas only; no recording or personal information.",
+  "data_handling": "Generated notes only; define retention and deletion.",
+  "non_goals": [
+    "REPLACE_ME"
+  ],
+  "decision_owner": "REPLACE_ME",
+  "schedule": "REPLACE_ME",
+  "limitations": [
+    "No real participant evidence"
+  ]
+}

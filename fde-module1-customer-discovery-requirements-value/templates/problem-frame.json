@@ -1,0 +1,30 @@
+{
+  "frame_id": "REPLACE_ME",
+  "customer_request": "REPLACE_ME",
+  "observed_symptoms": [
+    "REPLACE_ME"
+  ],
+  "user_needs": [
+    "REPLACE_ME"
+  ],
+  "root_problem_hypothesis": "REPLACE_ME",
+  "assumptions": [
+    "REPLACE_ME"
+  ],
+  "constraints": [
+    "REPLACE_ME"
+  ],
+  "non_goals": [
+    "REPLACE_ME"
+  ],
+  "outcome_hypothesis": "REPLACE_ME",
+  "affected_groups": [
+    "REPLACE_ME"
+  ],
+  "evidence_strength": "REPLACE_ME",
+  "decision_owner": "REPLACE_ME",
+  "review_trigger": "REPLACE_ME",
+  "product_implications": [
+    "REPLACE_ME"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "persona_id": "PER-EXEC-01",
+  "name": "Jordan Lee",
+  "role": "Executive sponsor",
+  "relationship": "Funds the discovery and owns the strategic outcome",
+  "decision_rights": [
+    "Discovery purpose",
+    "Discovery budget",
+    "Executive decision read-out"
+  ],
+  "cannot_authorise": [
+    "Production access",
+    "Policy change",
+    "Privacy interpretation",
+    "AI deployment",
+    "Operational acceptance"
+  ],
+  "goals": [
+    "Visible backlog reduction",
+    "A defensible investment decision this quarter"
+  ],
+  "concerns": [
+    "Loss of momentum",
+    "A discovery that produces only documentation"
+  ],
+  "baseline_statement": "We need an AI queue. The current queue has 1,240 cases and people are waiting 18 days.",
+  "evidence_available": [
+    "Steering note",
+    "Unvalidated dashboard export summary"
+  ],
+  "accessibility_and_participation": "Prefers a one-page decision brief before detailed appendices."
+}
